@@ -28,10 +28,11 @@
   <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patil-sandhya&show_icons=true&locale=en&layout=compact" alt="patil-sandhya" /></p>
 
+<br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanju01sahu&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&card_width=497" alt="GitHub Streak" /></p>
-
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanju01sahu&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="Top Language" /></p>
-
+<br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanju01sahu&theme=transparent&hide_border=true" alt="Stat Card" /></p>
+<br /><br /><br />
