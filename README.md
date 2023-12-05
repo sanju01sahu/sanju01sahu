@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanju01sahu&label=Profile%20views&color=0e75b6&style=flat" alt="Sanjay Sahu" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack and DSA**
-- 👨‍💻 All of my projects are available at [https://sanju01sahu.github.io/](my portfolio)
+- 👨‍💻 All of my projects are available at [https://sanju01sahu.github.io/]
 
 
 <br />
