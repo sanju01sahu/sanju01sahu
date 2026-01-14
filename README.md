@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanju01sahu&label=Profile%20views&color=0e75b6&style=flat" alt="Sanjay Sahu" /> </p>
 <!-- [![Gmail ](https://img.shields.io/badge/Email-sanju01.sahu@gmail.com-red?style=flat&logo=gmail&logoColor=white&link=mailto:sanju01.sahu@gmail.com)](mailto:sanju01.sahu@gmail.com) -->
 
-- 🌱 I’m currently learning **MERN Stack and DSA**
+- 🌱 I’m currently working as a Software Engineer, my primary focus is on Web Development using **MERN Stack+(Electron.js, Next.js, Nest.js, React Native and expo)**
 - 👨‍💻 All of my projects are available at <a href="https://sanju01sahu.github.io/">My Portfolio</a>
 
 
