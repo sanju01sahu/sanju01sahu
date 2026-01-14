@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjay Sahu</h1>
 <h3 align="center">
 Outcome-driven Full Stack Web Developer | MERN Stack | Electron.js | Next.js | Nest.js | React Native & Expo<br>
-Intermediate in Data Structures & Algorithms | Strong problem-solving skills | Team-oriented
+Intermediate in Data Structures & Algorithms | Strong problem-solving skills | AWS Deployment | Team-oriented
 </h3>
 
 <p align="center">
