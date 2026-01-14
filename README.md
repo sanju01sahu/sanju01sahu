@@ -31,9 +31,15 @@
 
 
 <br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanju01sahu&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&card_width=497" alt="GitHub Streak" /></p>
-<br />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanju01sahu&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="Top Language" /></p>
-<br />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanju01sahu&theme=transparent&hide_border=true" alt="Stat Card" /></p>
+<!-- GitHub stats cards -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanju01sahu&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="350" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=sanju01sahu&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="GitHub Stats" width="350" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanju01sahu&theme=transparent&hide_border=true" alt="GitHub Streak" width="350" />
+
+</div>
+
 <br /><br /><br />
